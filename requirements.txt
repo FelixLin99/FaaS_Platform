@@ -1,0 +1,4 @@
+requests~=2.30.0
+fastapi~=0.95.1
+dill~=0.3.6
+pydantic~=1.10.7
